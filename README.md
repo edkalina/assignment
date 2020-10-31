@@ -30,5 +30,7 @@ Solution can be used with `/api/assignment` endpoint. It accepts POST request wi
 ## Dependencies
 
 `warp` - for http server
+
 `serde_yaml` - for input parsing
+
 `once_cell` - for using global values
